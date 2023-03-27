@@ -1,6 +1,6 @@
-# USC - JOUR 561 - Rhysea
+# USC - JOUR 561
 
-This is Rhysea's repository.
+
 This folder contains my data, demos, sample code and assignments for spring 2022!
 
 Those with evil intentions, you'll be banished (if I find out, that is).
